@@ -1,0 +1,15 @@
+[submodule "employee-service"]
+	path = employee-service
+	url = https://github.com/krajesh535/employee-service
+[submodule "department-service"]
+	path = department-service
+	url = https://github.com/krajesh535/department-service
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/krajesh535/api-gateway
+[submodule "config-service"]
+	path = config-service
+	url = https://github.com/krajesh535/config-service
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/krajesh535/service-registry
