@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/api-gateway">
+      <sourceFolder url="file://$MODULE_DIR$/api-gateway/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/api-gateway/src/test/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/config-service">
+      <sourceFolder url="file://$MODULE_DIR$/config-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/config-service/src/test/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/department-service">
+      <sourceFolder url="file://$MODULE_DIR$/department-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/department-service/src/test/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/employee-service">
+      <sourceFolder url="file://$MODULE_DIR$/employee-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/employee-service/src/test/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/service-registry">
+      <sourceFolder url="file://$MODULE_DIR$/service-registry/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/service-registry/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

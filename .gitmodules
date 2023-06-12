@@ -13,3 +13,6 @@
 [submodule "service-registry"]
 	path = service-registry
 	url = https://github.com/krajesh535/service-registry
+[submodule "cloud-config-props"]
+	path = cloud-config-props
+	url = git@github.com:krajesh535/cloud-config-props.git
